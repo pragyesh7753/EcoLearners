@@ -1,9 +1,8 @@
 import React from 'react'
+import Dashboard from './dashboard.jsx'
 
 const App = () => {
-  return (
-    <div className='bg-red-400 text-2xl'>App</div>
-  )
+  return <Dashboard />
 }
 
 export default App

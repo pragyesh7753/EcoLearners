@@ -1,0 +1,7 @@
+new branch
+git checkout -b "newbranch name"
+
+ 
+
+ branch pe shift hone ke liye :
+git checkout "branch ka name"
